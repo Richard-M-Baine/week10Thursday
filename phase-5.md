@@ -1,4 +1,4 @@
-# Basic Phase 5: SELECT Clauses
+wher Basic Phase 5: SELECT Clauses
 
 In this phase, you will create queries using different SELECT clauses.
 
